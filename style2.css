@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(227, 198, 227);
+}
+.question1{
+    background-color: white;
+    width: 600px;
+}
+.color1{
+    background-color: red;
+    color: white;
+    display: flex;
+    align-self: flex-end;
+    width: 300px;
+    height: 100px;
+}
+.color2{
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+}

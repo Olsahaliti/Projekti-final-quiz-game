@@ -1,0 +1,27 @@
+.login{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(216, 195, 216);
+    width: 400px;
+    height: 300px;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 10px 8px 10px rgb(194, 193, 193);
+    margin-left: 30%;
+    margin-top: 100px;
+}
+.inp{
+    height:20px ;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white
+}
+.btn{
+    background-color: purple;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
